@@ -16,3 +16,96 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/opscode-cookbooks/java.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "erlang"]
+	path = erlang
+	url = https://github.com/opscode-cookbooks/erlang.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "nagios"]
+	path = nagios
+	url = https://github.com/opscode-cookbooks/nagios.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/opscode-cookbooks/nginx.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/opscode-cookbooks/ntp.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/opscode-cookbooks/postgresql.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/opscode-cookbooks/runit.git
+[submodule "ant"]
+	path = ant
+	url = https://github.com/opscode-cookbooks/ant.git
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "ark"]
+	path = ark
+	url = https://github.com/opscode-cookbooks/ark.git
+[submodule "aws"]
+	path = aws
+	url = https://github.com/opscode-cookbooks/aws.git
+[submodule "bluepill"]
+	path = bluepill
+	url = https://github.com/opscode-cookbooks/bluepill.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "chef_handler"]
+	path = chef_handler
+	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database.git
+[submodule "dmg"]
+	path = dmg
+	url = https://github.com/opscode-cookbooks/dmg.git
+[submodule "git"]
+	path = git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/opscode-cookbooks/logrotate.git
+[submodule "memcached"]
+	path = memcached
+	url = https://github.com/opscode-cookbooks/memcached.git
+[submodule "ohai"]
+	path = ohai
+	url = https://github.com/opscode-cookbooks/ohai.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "perl"]
+	path = perl
+	url = https://github.com/opscode-cookbooks/perl.git
+[submodule "php"]
+	path = php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "postfix"]
+	path = postfix
+	url = https://github.com/opscode-cookbooks/postfix.git
+[submodule "python"]
+	path = python
+	url = https://github.com/opscode-cookbooks/python.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/opscode-cookbooks/vim.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/opscode-cookbooks/windows.git
+[submodule "xfs"]
+	path = xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/opscode-cookbooks/xml.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
