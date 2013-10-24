@@ -1,0 +1,9 @@
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/foxycoder/cookbook-elasticsearch.git
+[submodule "kibana"]
+	path = kibana
+	url = https://github.com/foxycoder/chef-kibana.git
+[submodule "logstash"]
+	path = logstash
+	url = https://github.com/foxycoder/chef-logstash.git
