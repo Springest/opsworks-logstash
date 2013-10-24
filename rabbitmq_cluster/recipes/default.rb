@@ -1,6 +1,4 @@
 # Add all rabbitmq nodes to the hosts file with their short name.
-include_recipe "hostsfile"
-
 instances = node[:opsworks][:layers][:rabbitmq][:instances]
 
 instances.each do |name, attrs|
