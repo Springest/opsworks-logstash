@@ -117,7 +117,7 @@
 	url = https://github.com/foxycoder/hostsfile.git
 [submodule "rbenv"]
 	path = rbenv
-	url = https://github.com/RiotGames/rbenv-cookbook.git
+	url = https://github.com/ddux/rbenv-cookbook.git
 [submodule "yumrepo"]
 	path = yumrepo
 	url = https://github.com/bryanwb/cookbook-yumrepo.git
