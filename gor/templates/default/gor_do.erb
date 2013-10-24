@@ -1,0 +1,6 @@
+#!/bin/bash
+<% if node['gor']['role'] == 'listen' %>
+gor listen -p <%= node['gor']['source']['port'] %> -r <%= node['gor']['destination']['host'] %>:<%= node['gor']['destination']['port'] %>
+<% elsif node['gor']['role'] == 'replay' %>
+gor replay -f http://<%= node['gor']['destination']['host'] %> -p <%= node['gor']['source']['port'] %>
+<% end %>

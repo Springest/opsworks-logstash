@@ -1,0 +1,40 @@
+{
+  "name": "ipaddr_extensions",
+  "description": "Adds the ipaddr_extensions gem to chef",
+  "long_description": "ipaddr_extensions\n=================\n\nAdds the `ipaddr_extensions` gem to chef using the chef_gem provider. This adds a\ntop-level ohai attribute called `privateaddress`. If there is an RFC1918 IP address,\nthis is assigned to `node.privateaddress`.\n\n## Usage\n\nInclude `ipaddr_extensions` in your node's `run_list`:\n\n```json\n{\n  \"name\":\"my_node\",\n  \"run_list\": [\n    \"recipe[ipaddr_extensions]\"\n  ]\n}\n```\n\nIf a cookbook depends on knowing about private ip addresses, depend or suggest this cookbook.\n\n## Contributing\n\n1. Fork the repository on Github\n2. Create a named feature branch (like `add_component_x`)\n3. Write you change\n4. Write tests for your change (if applicable)\n5. Run the tests, ensuring they all pass\n6. Submit a Pull Request using Github\n",
+  "maintainer": "Wanelo, Inc",
+  "maintainer_email": "dev@wanelo.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "redhat": ">= 0.0.0",
+    "centos": ">= 0.0.0",
+    "scientific": ">= 0.0.0",
+    "fedora": ">= 0.0.0",
+    "debian": ">= 0.0.0",
+    "ubuntu": ">= 0.0.0",
+    "arch": ">= 0.0.0",
+    "freebsd": ">= 0.0.0",
+    "amazon": ">= 0.0.0",
+    "smartos": ">= 0.0.0"
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "ipaddr_extensions::default": "Installs ipaddr_extensions via chef_gem"
+  },
+  "version": "0.1.0"
+}
