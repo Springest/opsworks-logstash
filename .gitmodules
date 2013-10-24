@@ -7,3 +7,9 @@
 [submodule "logstash"]
 	path = logstash
 	url = https://github.com/foxycoder/chef-logstash.git
+[submodule "redisio"]
+	path = redisio
+	url = https://github.com/brianbianco/redisio.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/opscode-cookbooks/rabbitmq.git
