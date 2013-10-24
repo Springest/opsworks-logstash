@@ -115,3 +115,9 @@
 [submodule "hostsfile"]
 	path = hostsfile
 	url = https://github.com/customink-webops/hostsfile.git
+[submodule "rbenv"]
+	path = rbenv
+	url = https://github.com/RiotGames/rbenv-cookbook.git
+[submodule "yumrepo"]
+	path = yumrepo
+	url = https://github.com/bryanwb/cookbook-yumrepo.git
