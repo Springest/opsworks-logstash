@@ -112,3 +112,6 @@
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/opscode-cookbooks/rsyslog.git
+[submodule "hostsfile"]
+	path = hostsfile
+	url = https://github.com/customink-webops/hostsfile.git
