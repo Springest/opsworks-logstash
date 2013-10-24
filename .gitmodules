@@ -114,7 +114,7 @@
 	url = https://github.com/opscode-cookbooks/rsyslog.git
 [submodule "hostsfile"]
 	path = hostsfile
-	url = https://github.com/customink-webops/hostsfile.git
+	url = https://github.com/foxycoder/hostsfile.git
 [submodule "rbenv"]
 	path = rbenv
 	url = https://github.com/RiotGames/rbenv-cookbook.git
