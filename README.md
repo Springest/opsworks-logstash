@@ -13,10 +13,10 @@ __A screenshot of [Kibana3](http://demo.kibana.org/), included in the cookbooks.
 ![layers](http://springest-monosnap.s3-website-eu-west-1.amazonaws.com/2013_11_05_11_52_21_z5pt8.jpg)
 __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)__
 
-- A RabbitMQ cluster layer – Agents wil ship their logs to this cluster and the Logstash server cluster uses it as an input source.
-- An ElasticSearch cluster layer – All log messages are stored and indexed here.
-- A Logstash cluster layer – Takes the messages from the RabbitMQ fanout and puts them into ElasticSearch.
-- A Kibana server - An Angular.js interface on top of ElasticSearch to search, graph etc.
+- A RabbitMQ cluster layer (Ubuntu) – Agents wil ship their logs to this cluster and the Logstash server cluster uses it as an input source.
+- An ElasticSearch cluster layer (Amazon Linux) – All log messages are stored and indexed here.
+- A LogStash cluster layer (Ubuntu) – Takes the messages from the RabbitMQ fanout and puts them into ElasticSearch.
+- A Kibana server (Ubuntu) - An Angular.js interface on top of ElasticSearch to search, graph etc.
 
 ## Setting up your stack
 
