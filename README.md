@@ -20,7 +20,7 @@ __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)_
 
 ## Setting up your stack
 
-- Set `git://github.com/foxycoder/opsworks-logstash.git` as a repository URL for your custom cookbooks.
+- Set `git://github.com/Springest/opsworks-logstash.git` as a repository URL for your custom cookbooks.
 - Use the following Chef custom JSON:
 
 ```json
