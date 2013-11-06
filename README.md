@@ -93,3 +93,48 @@ __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)_
 #### RabbitMQ
 
 ![rabbitmq recipes](http://springest-monosnap.s3-website-eu-west-1.amazonaws.com/2013_11_05_17_24_45_iojw0.jpg)
+
+## Thanks to
+
+- [@ehlertij](https://github.com/ehlertij), [@tkawa](https://github.com/tkawa), and [@interu](https://github.com/interu) for their efforts on the [ElasticSearch cookbook for OpsWorks](https://github.com/sportngin/cookbook-elasticsearch).
+- [@lusis](https://github.com/lusis) for his work on the [Kibana cookbook](https://github.com/foxycoder/chef-kibana) and the [LogStash cookbook](https://github.com/foxycoder/chef-logstash)
+- [@brianbianco](https://github.com/brianbianco) for his [Redis cookbook](https://github.com/brianbianco/redisio)
+- [@sethvargo](https://github.com/sethvargo) for the [hostsfile cookbook](https://github.com/customink-webops/hostsfile)
+- [@ddux](https://github.com/ddux) for the [rbenv cookbook](https://github.com/ddux/rbenv-cookbook)
+- [@bryanwb](https://github.com/bryanwb) for the [Yumrepo cookbook](https://github.com/bryanwb/cookbook-yumrepo)
+- [@guilhem](https://github.com/guilhem) for his efforts on the [Htpaswd cookbook](https://github.com/Youscribe/htpasswd-cookbook)
+
+The guys at [Opscode](http://www.opscode.com/chef/) and their contributors for Chef and these cookbooks:
+
+[RabbitMQ](https://github.com/opscode-cookbooks/rabbitmq)
+- [Java](https://github.com/opscode-cookbooks/java)
+- [Apt](https://github.com/opscode-cookbooks/apt)
+- [Erlang](https://github.com/opscode-cookbooks/erlang)
+- [Nginx](https://github.com/opscode-cookbooks/nginx)
+- [NTP](https://github.com/opscode-cookbooks/ntp)
+- [Runit](https://github.com/opscode-cookbooks/runit)
+- [Ant](https://github.com/opscode-cookbooks/ant)
+- [Apache2](https://github.com/opscode-cookbooks/apache2)
+- [Ark](https://github.com/opscode-cookbooks/ark)
+- [AWS](https://github.com/opscode-cookbooks/aws)
+- [Build-essential](https://github.com/opscode-cookbooks/build-essential)
+- [Chef handler](https://github.com/opscode-cookbooks/chef_handler)
+- [Git](https://github.com/opscode-cookbooks/git)
+- [Ohai](https://github.com/opscode-cookbooks/ohai)
+- [OpenSSL](https://github.com/opscode-cookbooks/openssl)
+- [Perl](https://github.com/opscode-cookbooks/perl)
+- [Python](https://github.com/opscode-cookbooks/python)
+- [Windows](https://github.com/opscode-cookbooks/windows)
+- [xfs](https://github.com/opscode-cookbooks/xfs)
+- [xml](https://github.com/opscode-cookbooks/xml)
+- [yum](https://github.com/opscode-cookbooks/yum)
+- [rsyslog](https://github.com/opscode-cookbooks/rsyslog)
+
+And last but not least, the contributors at these projects:
+
+- [ElasticSearch](http://elasticsearch.com/) for their awesome search
+  engine.
+- [Kibana](http://www.elasticsearch.org/overview/kibana/)
+- [LogStash](http://logstash.net/)
+- [RabbitMQ](http://www.rabbitmq.com/)
+
