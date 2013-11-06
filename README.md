@@ -106,6 +106,17 @@ __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)_
 All of these people have made our lives a little better by writing great
 software.
 
+The contributors at these projects:
+
+- [ElasticSearch](http://elasticsearch.com/) for their awesome search
+  engine.
+- [Kibana](http://www.elasticsearch.org/overview/kibana/) for a
+  beautiful graphing tool.
+- [LogStash](http://logstash.net/) for bringing our logs together.
+- [RabbitMQ](http://www.rabbitmq.com/) for a robust message broker.
+
+And the people who wrote these cookbooks:
+
 - [@lusis](https://github.com/lusis) for his work on the [Kibana cookbook](https://github.com/foxycoder/chef-kibana) and the [LogStash cookbook](https://github.com/foxycoder/chef-logstash)
 - [@karmi](https://github.com/foxycoder/cookbook-elasticsearch) for the original, and [@ehlertij](https://github.com/ehlertij), [@tkawa](https://github.com/tkawa), and [@interu](https://github.com/interu) for their efforts on the [ElasticSearch cookbook for OpsWorks](https://github.com/sportngin/cookbook-elasticsearch).
 - [@brianbianco](https://github.com/brianbianco) for his [Redis cookbook](https://github.com/brianbianco/redisio)
@@ -114,7 +125,8 @@ software.
 - [@bryanwb](https://github.com/bryanwb) for the [Yumrepo cookbook](https://github.com/bryanwb/cookbook-yumrepo)
 - [@guilhem](https://github.com/guilhem) for his efforts on the [Htpaswd cookbook](https://github.com/Youscribe/htpasswd-cookbook)
 
-The guys at [Opscode](http://www.opscode.com/chef/) and their contributors for Chef and these cookbooks:
+And the guys at [Opscode](http://www.opscode.com/chef/) and their
+contributors for Chef and cookbooks like:
 
 - [RabbitMQ](https://github.com/opscode-cookbooks/rabbitmq)
 - [Java](https://github.com/opscode-cookbooks/java)
@@ -140,11 +152,7 @@ The guys at [Opscode](http://www.opscode.com/chef/) and their contributors for C
 - [yum](https://github.com/opscode-cookbooks/yum)
 - [rsyslog](https://github.com/opscode-cookbooks/rsyslog)
 
-And last but not least, the contributors at these projects:
+And last but not least:
 
-- [ElasticSearch](http://elasticsearch.com/) for their awesome search
-  engine.
-- [Kibana](http://www.elasticsearch.org/overview/kibana/)
-- [LogStash](http://logstash.net/)
-- [RabbitMQ](http://www.rabbitmq.com/)
+- [Amazon AWS](http://aws.amazon.com)
 
