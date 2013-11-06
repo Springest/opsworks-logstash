@@ -18,6 +18,13 @@ __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)_
 - A LogStash cluster layer (Ubuntu) – Takes the messages from the RabbitMQ fanout and puts them into ElasticSearch.
 - A Kibana server (Ubuntu) - An Angular.js interface on top of ElasticSearch to search, graph etc.
 
+## Contribute
+
+- Fork the project
+- Create a feature branch
+- Fix the code
+- Create a pull request
+
 ## Setting up your stack
 
 - Set `git://github.com/Springest/opsworks-logstash.git` as a repository URL for your custom cookbooks.
