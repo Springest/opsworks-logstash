@@ -96,8 +96,8 @@ __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)_
 
 ## Thanks to
 
-- [@ehlertij](https://github.com/ehlertij), [@tkawa](https://github.com/tkawa), and [@interu](https://github.com/interu) for their efforts on the [ElasticSearch cookbook for OpsWorks](https://github.com/sportngin/cookbook-elasticsearch).
 - [@lusis](https://github.com/lusis) for his work on the [Kibana cookbook](https://github.com/foxycoder/chef-kibana) and the [LogStash cookbook](https://github.com/foxycoder/chef-logstash)
+- [@karmi](https://github.com/foxycoder/cookbook-elasticsearch) for the original, and [@ehlertij](https://github.com/ehlertij), [@tkawa](https://github.com/tkawa), and [@interu](https://github.com/interu) for their efforts on the [ElasticSearch cookbook for OpsWorks](https://github.com/sportngin/cookbook-elasticsearch).
 - [@brianbianco](https://github.com/brianbianco) for his [Redis cookbook](https://github.com/brianbianco/redisio)
 - [@sethvargo](https://github.com/sethvargo) for the [hostsfile cookbook](https://github.com/customink-webops/hostsfile)
 - [@ddux](https://github.com/ddux) for the [rbenv cookbook](https://github.com/ddux/rbenv-cookbook)
