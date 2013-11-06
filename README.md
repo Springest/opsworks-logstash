@@ -1,5 +1,7 @@
 # A complete Logstash stack on [AWS OpsWorks](http://aws.amazon.com/opsworks/)
 
+__UPDATE__: I wrote a [blog post](http://devblog.springest.com/complete-logstash-stack-on-aws-opsworks-in-15-minutes/) that will help you set this up.
+
 This is a bunch of cookbooks that will allow you to run a complete Logstash setup on a scalable
 [AWS OpsWorks](http://aws.amazon.com/opsworks/) stack. At [Springest](http://www.springest.com)
 we use it to ship from 250 to about 1k log entries per second, depending on the RPM on our 18 servers.
