@@ -106,7 +106,7 @@ __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)_
 
 The guys at [Opscode](http://www.opscode.com/chef/) and their contributors for Chef and these cookbooks:
 
-[RabbitMQ](https://github.com/opscode-cookbooks/rabbitmq)
+- [RabbitMQ](https://github.com/opscode-cookbooks/rabbitmq)
 - [Java](https://github.com/opscode-cookbooks/java)
 - [Apt](https://github.com/opscode-cookbooks/apt)
 - [Erlang](https://github.com/opscode-cookbooks/erlang)
