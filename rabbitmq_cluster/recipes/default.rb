@@ -11,6 +11,8 @@ end
 rabbit_nodes = instances.map{ |name, attrs| "rabbit@#{name}" }
 node.set['rabbitmq']['cluster_disk_nodes'] = rabbit_nodes
 
+execute "chown -R rabbitmq:rabbitmq /var/lib/rabbitmq"
+
 include_recipe 'rabbitmq'
 
 rabbitmq_user "guest" do
