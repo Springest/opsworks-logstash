@@ -1,12 +1,12 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
-	url = https://github.com/foxycoder/cookbook-elasticsearch.git
+	url = https://github.com/simplybusiness/cookbook-elasticsearch.git
 [submodule "kibana"]
 	path = kibana
-	url = https://github.com/foxycoder/chef-kibana.git
+	url = https://github.com/simplybusiness/chef-kibana.git 
 [submodule "logstash"]
 	path = logstash
-	url = https://github.com/foxycoder/chef-logstash.git
+	url = https://github.com/simplybusiness/chef-logstash.git
 [submodule "redisio"]
 	path = redisio
 	url = https://github.com/brianbianco/redisio.git
