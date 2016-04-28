@@ -1,3 +1,11 @@
+This project is **no longer maintained**.
+
+If you're interested in taking it over, we'd love to hear from you.
+Email [developers@springest.com](mailto:developers@springest.com), or check out
+one of its maintained forks.
+
+*****
+
 # A complete Logstash stack on [AWS OpsWorks](http://aws.amazon.com/opsworks/)
 
 __UPDATE__: I wrote a [blog post](http://devblog.springest.com/complete-logstash-stack-on-aws-opsworks-in-15-minutes/) that will help you set this up.
